@@ -15,7 +15,7 @@ using namespace std;
 * Prints to Consoul
 * * * * * * * * * * * * * * * * * */
 int main() {
-    cout << "Hellow World !";
+    cout << "Hellow Universe !";
 
     return 0;
 }
